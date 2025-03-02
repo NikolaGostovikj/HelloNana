@@ -14,7 +14,7 @@ We made sure to follow all **UI/UX heuristics and rules**, and we wrote a **crit
 
 # Key Features: 
 - **Simplified UI**: Large buttons, clear icons, and minimal distractions for easy navigation.
-- **Voice Commands**: Enables users to start and end calls using simple voice commands.
+- **Voice Commands**: Enables users to start and end calls, control volume, add users, delete users, confirm inputs using simple voice commands.
 - **One-Tap Calling**: Avoids complex menus, allowing seniors to connect with family instantly.
 - **Accessibility Features**: Adjustable text size, color contrast options, and support for hearing impairments.
 - **User-Friendly Design**: Adheres to UI/UX heuristics and usability principles for an optimal experience.
